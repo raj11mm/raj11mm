@@ -12,8 +12,8 @@ Always learning, always shipping 🚀
 
 * 🎓 B.Tech CSE Graduate
 * 💻 Full Stack Developer passionate about building real-world projects
-* ⚡ Currently learning **Node.js** and backend architecture
-* 🛠 Love working with **Java, React, JavaScript, Express & MySQL**
+* ⚡ Currently learning Node.js and backend architecture
+* 🛠 Love working with Java, React, JavaScript, Express & MySQL
 * 🌱 Learning every day through projects, debugging, and experimentation
 * ☕ Powered by chai, bugs, and late-night coding sessions
 
@@ -70,33 +70,33 @@ E-commerce full-stack project using Java Spring Boot.
 
 ## 📊 GitHub Stats
 
-```md
-# Add these after creating your README
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj11mm\&show_icons=true\&theme=tokyonight)
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj11mm&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj11mm&layout=compact&theme=tokyonight)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj11mm\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake Animation
 
-```md
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-```
+![Snake animation](https://github.com/raj11mm/raj11mm/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=raj11mm\&color=blue)
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/raj11mm](https://github.com/raj11mm)
+* GitHub: https://github.com/raj11mm
 * LinkedIn: Add your LinkedIn here
-* Portfolio: Add your portfolio link here
+* Portfolio: Add your portfolio here
 
 ---
 
-## ⚡ Developer Quote
+## ⚡ Fun Dev Quote
 
 > “99 little bugs in the code.
 > Take one down, patch it around…
@@ -104,22 +104,14 @@ E-commerce full-stack project using Java Spring Boot.
 
 ---
 
-# 📌 How To Use This
+## 🚀 Currently Learning
 
-1. Create a new repository named exactly:
+* Node.js
+* Express.js
+* Backend Architecture
+* Real-time Applications
+* Scalable Web Development
 
-```txt
-raj11mm
-```
+---
 
-2. Add a file named:
-
-```txt
-README.md
-```
-
-3. Copy everything from this file into your README.
-
-4. Commit changes.
-
-Your GitHub profile will instantly transform into a developer portfolio-style profile 🚀
+⭐ From [raj11mm](https://github.com/raj11mm)
