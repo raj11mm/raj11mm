@@ -70,13 +70,13 @@ E-commerce full-stack project using Java Spring Boot.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj11mm&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11mm&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+<div align="center">
 
-![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11mm&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raj11mm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11mm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
