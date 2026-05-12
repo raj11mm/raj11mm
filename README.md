@@ -101,8 +101,8 @@ E-commerce full-stack project using Java Spring Boot.
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/raj11mm
-* LinkedIn: Add your LinkedIn here
-* Portfolio: Add your portfolio here
+* LinkedIn: https://www.linkedin.com/in/raj-shekhar-967149332
+* Portfolio: https://awesome-portfolio--rajthisside1609.replit.app/
 
 ---
 
