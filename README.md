@@ -76,9 +76,11 @@ E-commerce full-stack project using Java Spring Boot.
 
 ---
 
-## 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/raj11mm/raj11mm/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raj11mm/raj11mm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
