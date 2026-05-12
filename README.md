@@ -68,13 +68,17 @@ E-commerce full-stack project using Java Spring Boot.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raj11mm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj11mm&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj11mm&theme=tokyonight)
+&nbsp;&nbsp;
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raj11mm&theme=tokyonight)
 
 </div>
 
