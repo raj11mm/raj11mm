@@ -2,9 +2,10 @@
 
 ### Full Stack Developer 💻 | Java • React • Node.js ⚡
 
-Building stuff that actually works… most of the time 😭
-Turning errors into experience since day one 📈
-Always learning, always shipping 🚀
+🛠 Full stack by choice, backend by obsession
+💡 From geo trackers to e-commerce — I build things that actually do something
+🌱 Learning Node.js & scalable architecture because working once isn't enough
+🚀 Always learning, always shipping — occasionally sleeping
 
 ---
 
